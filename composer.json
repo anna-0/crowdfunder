@@ -1,0 +1,8 @@
+{
+    "name": "vendor/name",
+    "require": {
+        "gocardless/gocardless-pro": "^4.7",
+        "stripe/stripe-php": "^7.62",
+        "slim/slim": "^4.6"
+    }
+}
